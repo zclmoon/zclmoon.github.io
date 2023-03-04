@@ -3,6 +3,7 @@ layout: post
 title:  "Homebrew version value error"
 date:   2023-03-04 22:54:55 +0800
 categories: tools
+permalink: /homebrew-version-value-error/
 ---
 
 # Error
