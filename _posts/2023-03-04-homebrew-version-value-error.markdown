@@ -12,9 +12,9 @@ categories: tools
 Version value must be a string; got a NilClass () (TypeError)
 {% endhighlight %}
 
+![image](../images/homebrew-issue-images/homebrew-version-error.jpg)
+
 # Solution
 {% highlight bash %}
 brew update-reset
 {% endhighlight %}
-
-![image](../images/homebrew-issue-images/homebrew-version-error.png)
