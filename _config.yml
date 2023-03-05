@@ -18,10 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: CoderCMS
+title: Programmer
 email: zclmoon@126.com
 description: >- # this means to ignore newlines until "baseurl:"
- Everyone is equal in front of the programming
+ Talk Is Cheap, Show Me The Code;
+ Everyone is equal in front of the code.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://codercms.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: zclmoon
