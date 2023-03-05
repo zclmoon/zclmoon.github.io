@@ -6,7 +6,7 @@ source "https://rubygems.org"
 #     bundle exec jekyll serve
 #
 # This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
+# Happy Jekylling! uncomment this in local 'bundle exec jekyll serve'
 #gem "jekyll", "~> 4.3.2"
 gem "github-pages", "~> 228", group: :jekyll_plugins
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
