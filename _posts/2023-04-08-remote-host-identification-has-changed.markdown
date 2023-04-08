@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "Git WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED! "
-date:   2023-04-08 11:54:55 +0800
+title:  "Git WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!"
+date:   2023-04-08 14:54:55 +0800
 categories: ChatGPT
 ---
 
 # Issue
 
+Issue when use git pull:
+
 ```
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@    WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!     @
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!  
 IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY!
 Someone could be eavesdropping on you right now (man-in-the-middle attack)!
 It is also possible that a host key has just been changed.
