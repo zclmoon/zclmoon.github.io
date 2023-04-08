@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Git WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!"
+title:  "Remote host identification has changed"
 date:   2023-04-08 14:54:55 +0800
 categories: ChatGPT
 ---
+
 
 # Issue
 
