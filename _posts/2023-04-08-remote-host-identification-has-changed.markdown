@@ -15,10 +15,10 @@ IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY!
 Someone could be eavesdropping on you right now (man-in-the-middle attack)!
 It is also possible that a host key has just been changed.
 The fingerprint for the RSA key sent by the remote host is
-SHA256:uNiVztksCsDhcc0u9e8BujQXVUpKZIDTMczCvj3tD2s.
+SHA256:xxxxxxxxxxxxxxxxxxxxxxxxxx
 Please contact your system administrator.
-Add correct host key in /Users/zclmoon/.ssh/known_hosts to get rid of this message.
-Offending RSA key in /Users/zclmoon/.ssh/known_hosts:3
+Add correct host key in /Users/xxx/.ssh/known_hosts to get rid of this message.
+Offending RSA key in /Users/xxxx/.ssh/known_hosts:3
 Host key for github.com has changed and you have requested strict checking.
 Host key verification failed.
 fatal: Could not read from remote repository.
