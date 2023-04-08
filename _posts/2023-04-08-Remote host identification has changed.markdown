@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Remote host identification has changed"
-date:   2023-04-08 14:54:55 +0800
+title: "Remote host identification has changed"
+date: 2023-04-08 14:54:55 +0800
 categories: ChatGPT
 ---
 
 
 # Issue
 
-Issue when use git pull:
+Got issue:
 
 ```
 WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!  
@@ -26,7 +26,7 @@ fatal: Could not read from remote repository.
 ```
 
 # Solution
-Copy above error into ChatGPT directly, then ChatGPT provide the solution:
+Copy above error into ChatGPT directly, then ChatGPT provide the following solution:
 
 This is a warning message that informs you that your SSH client has detected a different RSA key fingerprint than the one previously used to connect to the remote server. This could be due to the remote host's key being changed or your connection being intercepted by a man-in-the-middle attacker.
 
